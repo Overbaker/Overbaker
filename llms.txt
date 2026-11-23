@@ -1,0 +1,11 @@
+# Overbaker (https://github.com/Overbaker)
+
+> Former architect building minimal, load-bearing open-source systems and AI coding agent tooling — guided by structural honesty, explicit boundaries, zero hidden hooks, and measured evidence.
+
+## Open-Source Works
+
+- **hapi-rust** (`https://github.com/Overbaker/hapi-rust` | Docs: `https://overbaker.github.io/hapi-rust/`): Local-first remote control and 4.4 MiB Rust session wrapper (19× lower memory than Bun/TS, 11 ms cold start, 24h auto-hibernation) for running 100+ Claude Code, Codex, Antigravity, and Pi sessions on one host.
+- **OpenSlime** (`https://github.com/Overbaker/OpenSlime`): Minimal Claude Code + OpenSpec multi-agent workflow with a deterministic local decision ledger (Newcombe/Holm), blind A/B evidence-gated lessons, 0 hooks, and 1.4 KB always-on context.
+- **square² / 方方** (`https://github.com/Overbaker/square2`): Zero-dependency Node ≥ 22 repo-agnostic governance skeleton combining deterministic ratcheting quality gates with credential-isolated advisory cross-family AI code review.
+- **grogu** (`https://github.com/Overbaker/grogu`): Unjailbroken iOS/iPadOS native control over Tailscale or standalone on-device Swift 6 app — CoreDevice/DVT telemetry, FastWDA UI trees, ~50 ms HID gestures, Siri takeover, and bidirectional MCP (`2025-03-26`).
+- **One-Patch** (`https://github.com/Overbaker/One-Patch`): 1.5 MB, 100% offline Android touch-blocking overlay (zero internet permission, no root) with floating toggle and recordable one-handed gesture replay.
