@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-label="Overbaker — Former architect. If it isn't load-bearing, cut it.">
+  <rect width="1200" height="220" rx="10" fill="#FAF8F4"/>
+  <rect x="14" y="14" width="1172" height="192" fill="none" stroke="#18181B" stroke-width="1.2"/>
+
+  <!-- Left: Typography -->
+  <text x="56" y="64" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" font-weight="600" fill="#C24136" letter-spacing="2">FORMER ARCHITECT  ·  SYSTEMS</text>
+  <text x="56" y="124" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="48" font-weight="800" fill="#18181B" letter-spacing="2">OVERBAKER</text>
+  <text x="56" y="164" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="400" fill="#57534E">Bake the architecture. If it isn't load-bearing, cut it.</text>
+
+  <!-- Subtle vertical divider -->
+  <line x1="870" y1="38" x2="870" y2="182" stroke="#E5E1D8" stroke-width="1"/>
+
+  <!-- Right: Pure architectural section elevation (Mies / Ando geometry) -->
+  <g transform="translate(924, 42)">
+    <line x1="0" y1="126" x2="210" y2="126" stroke="#A8A29E" stroke-width="1" stroke-dasharray="3 3"/>
+    <rect x="24" y="20" width="162" height="9" fill="#18181B"/>
+    <rect x="42" y="29" width="9" height="97" fill="none" stroke="#18181B" stroke-width="1.5"/>
+    <rect x="100" y="29" width="10" height="97" fill="#C24136"/>
+    <rect x="159" y="29" width="9" height="97" fill="none" stroke="#18181B" stroke-width="1.5"/>
+    <line x1="12" y1="78" x2="198" y2="78" stroke="#C24136" stroke-width="1" stroke-dasharray="5 4"/>
+    <text x="105" y="148" text-anchor="middle" font-family="ui-monospace, Menlo, monospace" font-size="10.5" fill="#78716C" letter-spacing="1.6">SEC. A–A  ·  1:1</text>
+  </g>
+</svg>
