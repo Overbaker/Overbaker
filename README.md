@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/plate-dark.svg" />
-    <img src="assets/plate-light.svg" alt="Overbaker — Former architect. Bake the architecture. Leave room to think." width="100%" />
+    <img src="assets/plate-light.svg" alt="Overbaker — fake architect. bake the architecture." width="100%" />
   </picture>
 </p>
 

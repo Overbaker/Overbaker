@@ -1,6 +1,6 @@
 # Overbaker (https://github.com/Overbaker)
 
-> Former architect designing quiet, minimal open-source software and AI coding agent tooling — space, proportion, explicit boundaries, zero hidden hooks, and measured evidence.
+> fake architect. bake the architecture.
 
 ## Open-Source Works
 
