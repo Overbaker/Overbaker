@@ -1,6 +1,6 @@
 # Overbaker (https://github.com/Overbaker)
 
-> Former architect building minimal, load-bearing open-source systems and AI coding agent tooling — guided by structural honesty, explicit boundaries, zero hidden hooks, and measured evidence.
+> Former architect designing quiet, minimal open-source software and AI coding agent tooling — space, proportion, explicit boundaries, zero hidden hooks, and measured evidence.
 
 ## Open-Source Works
 

@@ -1,11 +1,11 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/plate-dark.svg" />
-    <img src="assets/plate-light.svg" alt="Overbaker — Former architect. If it isn't load-bearing, cut it." width="100%" />
+    <img src="assets/plate-light.svg" alt="Overbaker — Former architect. Bake the architecture. Leave room to think." width="100%" />
   </picture>
 </p>
 
-| Project | What | Spec |
+| Project | What | Footprint |
 |---|---|---|
 | [**hapi-rust**](https://github.com/Overbaker/hapi-rust) | Rust session wrapper for 100+ Claude Code / Codex agents | `4.4 MiB · 11 ms` |
 | [**OpenSlime**](https://github.com/Overbaker/OpenSlime) | Claude Code workflow with decision ledger & blind A/B lessons | `0 hooks · 1.4 KB` |
